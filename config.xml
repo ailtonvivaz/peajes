@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "net.cloudapp.peajesacp"
+        id = "net.cloudapp.peajes"
         version = "1.0.0">
 
-    <name>Peajes ACP</name>
+    <name>Calculadora de Peajes</name>
 
     <description>
         Calculadora de Peajes de la Autoridad del Canal de Panamá
