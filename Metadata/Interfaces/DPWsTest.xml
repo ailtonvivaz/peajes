@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallableObject guid="9d8ca2b6-0f19-482a-9505-9d9c3cd33539" name="DPWsTest" description="DPWs Test" namespace="GeneXus.Programs">
+  <Signature name="par">
+    <Parameter name="CapacidadDeContenedores">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>12</Value>
+          </Property>
+          <Property>
+            <Name>Decimals</Name>
+            <Value>2</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="CargaTEU">
+      <Field>
+        <Properties>
+          <Property>
+            <Name>Type</Name>
+            <Value>Numeric</Value>
+          </Property>
+          <Property>
+            <Name>Length</Name>
+            <Value>12</Value>
+          </Property>
+          <Property>
+            <Name>Decimals</Name>
+            <Value>2</Value>
+          </Property>
+        </Properties>
+      </Field>
+    </Parameter>
+    <Parameter name="ReturnValue" accessor="out">
+      <Field name="SdtResultado" description="SdtResultado">
+        <Fields>
+          <Field name="SdtResultadoPanamax" description="Sdt Resultado Panamax">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>2</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="SdtResultadoNeoPanamax" description="Sdt Resultado Neo Panamax">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>2</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="SdtResultadoLastre" description="Sdt Resultado Lastre">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>2</Value>
+              </Property>
+            </Properties>
+          </Field>
+          <Field name="SdtLastreRoundtrip" description="Sdt Lastre Roundtrip">
+            <Properties>
+              <Property>
+                <Name>Type</Name>
+                <Value>Numeric</Value>
+              </Property>
+              <Property>
+                <Name>Length</Name>
+                <Value>18</Value>
+              </Property>
+              <Property>
+                <Name>Decimals</Name>
+                <Value>2</Value>
+              </Property>
+            </Properties>
+          </Field>
+        </Fields>
+      </Field>
+    </Parameter>
+  </Signature>
+</CallableObject>

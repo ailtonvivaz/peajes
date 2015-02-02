@@ -1,0 +1,211 @@
+.Form {
+    background: url(bg.png);
+    font-family: 'Open Sans Regular', Arial;
+    font-size: 14px;
+    color: #a1a1a1;
+    background-color: #eaeaea!important;
+}
+.gx-button .btn {
+    margin-right: 10px;
+}
+.gx-attribute .form-control {
+    margin-left: 15px;
+}
+.gx-attribute .form-control-static {
+    margin-left: 20px;
+}
+input.btn:hover {
+    color: #fff;
+}
+.SubTitle {
+    color: #454343;
+    text-shadow: 1px 1px 0 #a1a1a1;
+}
+.BtnEnter {
+    color: #d7d8d8;
+    opacity: 1;
+    border: 0;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 20px;
+    -webkit-transition: opacity 400ms ease;
+    -moz-transition: opacity 400ms ease;
+    -ms-transition: opacity 400ms ease;
+    -o-transition: opacity 400ms ease;
+    transition: opacity 400ms ease;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    padding: 7px 14px;
+    margin: 4px 2px 2px;
+    box-shadow: 0 0 0 1px #4cdc1a, 0 0 0 2px #4ba42c;
+    background-color: #3c7a2e;
+    background-image: linear-gradient(to bottom, #3a9923, #3c7a2e);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3a9923), to(#3c7a2e));
+    background-image: -moz-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -webkit-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -o-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: ms-linear-gradient(to bottom, #3a9923, #3c7a2e);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,  startColorstr='#3a9923',  endColorstr='#3c7a2e');
+}
+.logoExtraSmall {
+    margin-left: auto;
+    margin-right: auto;
+    float: none!important;
+}
+.HeaderContainer, .RecentLinksContainer {
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-top: -10px;
+    padding: 12px 30px 0;
+    border-top: 1px solid #4b8ca8;
+    background-color: #3c7a2e;
+    background-image: linear-gradient(to bottom, #3a9923, #3c7a2e);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3a9923), to(#3c7a2e));
+    background-image: -moz-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -webkit-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -o-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: ms-linear-gradient(to bottom, #3a9923, #3c7a2e);
+    -pie-background: linear-gradient(to bottom, #3a9923, #3c7a2e);
+}
+.RecentLinksContainer {
+    background: url(bg-div-main.png) repeat-x!important;
+    color: #000;
+    text-align: center;
+}
+.FormContainer {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 #3a9923, 0 0 0 1px #3a9923;
+    border-top: 4px solid #3a9923;
+    border-top-width: 4px;
+    padding: 30px 30px 10px;
+    box-sizing: border-box;
+    border-top-color: #3a9923;
+}
+#FOOTER_MPAGE {
+    width: 100%;
+    background: #3c7a2e;
+    border-radius: 3px;
+    border-top: 1px solid #3a9923;
+    background-image: linear-gradient(to bottom, #3a9923, #3c7a2e);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3a9923), to(#3c7a2e));
+    background-image: -moz-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -webkit-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -o-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: ms-linear-gradient(to bottom, #3a9923, #3c7a2e);
+    -pie-background: linear-gradient(to bottom, #3a9923, #3c7a2e);
+    text-align: center !important;
+	padding:10px;
+}
+#TEXTBLOCK2_MPAGE {
+    font-size: 12px;
+    color: #fff;
+}
+#TABLE3_MPAGE, #TEXTBLOCK1_MPAGE {
+    text-align: center;
+}
+.col-sm-10 {
+    margin-left: auto!important;
+    margin-right: auto!important;
+    float: none!important;
+}
+#W0022IMAGE1 {
+    width: 100%}
+.FooterText {
+    font-size: 11px;
+    color: #e4e5e3;
+}
+.row {
+    padding-bottom: 10px;
+}
+#GROUP2, #GROUPTANQUERORESULTADO {
+    background: url(result-bg.png);
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 #3a9923, 0 0 0 1px #3a9923;
+    padding: 30px 30px 10px;
+    box-sizing: border-box;
+    border-top-color: #3a9923;
+    margin-top: 0;
+}
+.GroupTitle {
+    padding-top: 0;
+}
+.Label {
+    display: block;
+    padding-bottom: 10px;
+    text-align: right;
+}
+#GROUPTANQUERORESULTADO, #W0027NEOPANAMAX, #W0027PANAMAX, #W0027RESULTADO, #W0027RESULTADOCARGADO, #W0027RESULTADOLASTRE, #W0027RESULTADONEOPANAMAXCARGADO, #W0027RESULTADONEOPANAMAXLASTRE, #W0027RESULTADOPANAMAXCARGADO, #W0027RESULTADOPANAMAXLASTRE, #W0027TEXTBLOCKRESULTADOLASTRE, #W0027TEXTBLOCKRESULTADOLASTREROUNDTRIP, #W0027TEXTBLOCKRESULTADONEOPANAMAX, #W0027TEXTBLOCKRESULTADOPANAMAX {
+    font-size: 16px;
+    color: #000;
+}
+.Button {
+    color: #d7d8d8;
+    opacity: 1;
+    border: 0;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 20px;
+    -webkit-transition: opacity 400ms ease;
+    -moz-transition: opacity 400ms ease;
+    -ms-transition: opacity 400ms ease;
+    -o-transition: opacity 400ms ease;
+    transition: opacity 400ms ease;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin: 5px;
+    box-shadow: 0 0 0 1px #4cdc1a, 0 0 0 2px #4ba42c;
+    background-color: #3c7a2e;
+    background-image: linear-gradient(to bottom, #3a9923, #3c7a2e);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#3a9923), to(#3c7a2e));
+    background-image: -moz-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -webkit-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: -o-linear-gradient(top, #3a9923, #3c7a2e);
+    background-image: ms-linear-gradient(to bottom, #3a9923, #3c7a2e);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,  startColorstr='#3a9923',  endColorstr='#3c7a2e');
+}
+#GROUP2 .GroupTitle, #GROUPTANQUERORESULTADO .GroupTitle {
+    padding-top: 40px;
+}
+.logoExtraSmallInicial{
+	width:100%;
+	height:100%;
+}
+#W0027RESULTADOCALCULO, #W0027RESULTADOCARGADOCALCULO, #W0027RESULTADOLASTRECALCULO, #W0027RESULTADONEOPANAMAXCARGADOCALCULO, #W0027RESULTADONEOPANAMAXLASTRECALCULO, #W0027RESULTADOPANAMAXCARGADOCALCULO, #W0027RESULTADOPANAMAXLASTRECALCULO {
+    color: #060;
+    font-weight: 700;
+}
+.md-contentE{
+	border-radius: 6px;
+    box-shadow: 0 0 10px 0 #c0392b, 0 0 0 0px #c0392b;
+    box-sizing: border-box;
+    margin-top: 0;	
+}
+
+@media only screen and (min-width:250px) and (max-width:450px) {
+.md-modal{
+	min-width:260px;
+}	
+.md-modal h3{
+	font-size: 1.5em;
+}	
+    #GROUP2 {
+    padding-top: 90px;
+    text-align: center;
+}
+#GROUP2 .GroupTitle, #GROUPTANQUERORESULTADO .GroupTitle {
+    font-size: 20px;
+    padding-top: 90px;
+    text-align: center;
+}
+}
