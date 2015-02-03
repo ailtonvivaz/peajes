@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.wscalcularportavehiculosroro_services,wscalcularportavehiculosroro" %>
