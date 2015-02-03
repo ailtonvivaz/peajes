@@ -3,16 +3,16 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "net.cloudapp.peajes"
-        version = "1.0.0">
+        id = "net.cloudapp.peajesmovil"
+        version = "1.0.1">
 
-    <name>Calculadora de Peajes</name>
+    <name>Calculadora Móvil de Peajes</name>
 
     <description>
-        Calculadora de Peajes de la Autoridad del Canal de Panamá
+        Calculadora Móvil de Peajes de la Autoridad del Canal de Panamá
     </description>
 
-    <author href="http://ctmconcepts.com" email="cesartello@cableonda.net">
+    <author href="http://delcanal.com" email="cesartello@pancanal.com">
         Abdel Miranda, Cesar Tello Meryk
     </author>
 
