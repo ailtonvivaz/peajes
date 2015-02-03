@@ -1,2 +1,0 @@
-<endpoint  name="GeneXus.Programs.Sdtwsrest_servicesClient" address="http://tise-wks-345508.canal.acp/CalcularPeajes.NetEnvironment/wsrest.svc" binding="basicHttpBinding" contract="GeneXus.Programs.ISdtwsrest_services">
-</endpoint>

@@ -1,2 +1,0 @@
-<endpoint  name="GeneXus.Programs.Sdtwscalcularportavehiculosroro_servicesClient" address="http://tise-wks-345508.canal.acp/CalcularPeajes/wscalcularportavehiculosroro.svc" binding="basicHttpBinding" contract="GeneXus.Programs.ISdtwscalcularportavehiculosroro_services">
-</endpoint>
